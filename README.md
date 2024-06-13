@@ -1,5 +1,5 @@
-# DominandoEstruturasDeDados
- Dominando Estruturas de Dados
+
+
 
  ## Dominando Estruturas de Dados 
 ### Materiais de cada vídeo (slides e códigos)
